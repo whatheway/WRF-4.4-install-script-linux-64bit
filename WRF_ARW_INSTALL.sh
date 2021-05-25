@@ -4,7 +4,7 @@
 # Download and install required library and data files for WRF.
 # Tested in Ubuntu 20.04 LTS
 # Built in 64-bit system
-# Tested with current available libraries on 05/55/2021
+# Tested with current available libraries on 05/25/2021
 # If newer libraries exist edit script paths for changes
 #Estimated Run Time ~ 80 - 120 Minutes
 #Special thanks to  Youtube's meteoadriatic and GitHub user jamal919
