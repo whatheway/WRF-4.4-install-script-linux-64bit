@@ -15,6 +15,7 @@ I have provided comments on what the script is doing and information on configur
 
 
 # WRF installation with parallel process.
+## Must be installed with GNU compiler, it will not work with other compilers.
 
 Download and install required library and data files for WRF.
 
