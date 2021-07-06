@@ -213,7 +213,8 @@ export PATH=$HOME/WRF/GrADS/Contents:$PATH
 export WRFIO_NCD_LARGE_FILE_SUPPORT=1
 cd $HOME/WRF/Downloads
 wget -c https://github.com/wrf-model/WRF/archive/v4.3.tar.gz
-tar -xvzf v4.3.tar.gz -C $HOME/WRF
+mv v4.3.tar.gz WRF-4.3.tar.gz
+tar -xvzf WRF-4.3.tar.gz -C $HOME/WRF
 cd $HOME/WRF/WRF-4.3
 ./clean
 ./configure # option 34, option 1 for gfortran and distributed memory w/basic nesting
