@@ -212,8 +212,7 @@ export PATH=$HOME/WRF/GrADS/Contents:$PATH
 ########################################################################
 export WRFIO_NCD_LARGE_FILE_SUPPORT=1
 cd $HOME/WRF/Downloads
-wget -c https://github.com/wrf-model/WRF/archive/v4.3.tar.gz
-mv v4.3.tar.gz WRF-4.3.tar.gz
+wget -c https://github.com/wrf-model/WRF/archive/v4.3.tar.gz -O WRF-4.3.tar.gz
 tar -xvzf WRF-4.3.tar.gz -C $HOME/WRF
 cd $HOME/WRF/WRF-4.3
 ./clean
@@ -230,8 +229,7 @@ export WRF_DIR=$HOME/WRF/WRF-4.3
 ########################################################################
 
 cd $HOME/WRF/Downloads
-wget -c https://github.com/wrf-model/WPS/archive/v4.3.tar.gz
-mv v4.3.tar.gz WPS-4.3.tar.gz
+wget -c https://github.com/wrf-model/WPS/archive/v4.3.tar.gz -O WPS-4.3.tar.gz
 tar -xvzf WPS-4.3.tar.gz -C $HOME/WRF
 cd $HOME/WRF/WPS-4.3
 ./configure #Option 3 for gfortran and distributed memory 
