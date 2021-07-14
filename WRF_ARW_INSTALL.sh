@@ -6,7 +6,7 @@
 # Built in 64-bit system
 # Tested with current available libraries on 05/25/2021
 # If newer libraries exist edit script paths for changes
-#Estimated Run Time ~ 80 - 120 Minutes
+#Estimated Run Time ~ 80 - 120 Minutes with 10mb/s downloadspeed.
 #Special thanks to  Youtube's meteoadriatic and GitHub user jamal919
 
 #############################basic package managment############################
