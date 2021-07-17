@@ -19,8 +19,7 @@ I have provided comments on what the script is doing and information on configur
 
 Download and install required library and data files for WRF.
 
-Tested in Ubuntu 20.04 LTS
-
+Tested in Ubuntu 20.04.2 LTS
 Built in 64-bit system
 
 Tested with current available libraries on 05/25/2021
