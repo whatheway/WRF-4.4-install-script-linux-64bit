@@ -7,8 +7,10 @@ This is a script that installs all the libararies, software, programs, and geost
 > git clone https://github.com/whatheway/WRF-4.3-install-script-linux-64bit.git
 
 > chmod +x WRF_ARW_INSTALL.sh
-> chmod +x 
-> chmod +x
+> 
+> chmod +x MET_self_install_script_Linux_84bit.sh
+> 
+> chmod +x METplus_self_install_script_Linux_32bit.sh
 
 > ./WRF_ARW_INSTALL
 
