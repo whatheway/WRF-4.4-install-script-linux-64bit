@@ -332,6 +332,10 @@ tar -xvf lake_depth.tar.bz2 -C $HOME/WRF/GEOG/WPS_GEOG
 echo "export PATH=$DIR/bin:$PATH" >> ~/.bashrc
 echo "export LD_LIBRARY_PATH=$DIR/lib:$LD_LIBRARY_PATH" >> ~/.bashrc
 
+cd
+$HOME/MET_self_install_script_Linux_64bit.sh
+
+
 
 #####################################BASH Script Finished##############################
 echo "Congratulations! You've successfully installed all required files to run the Weather Research Forecast Model verison 4.3."
