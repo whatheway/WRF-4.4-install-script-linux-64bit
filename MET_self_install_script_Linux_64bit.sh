@@ -54,7 +54,7 @@ export SET_D64BIT=FALSE
 ./compile_MET_all.sh 
 
 cd 
-$HOME/METplus_self_install_script_Linux_64bit.sh
+$HOME/WRF-4.3-install-script-linux-64bit//METplus_self_install_script_Linux_64bit.sh
 
 
 
