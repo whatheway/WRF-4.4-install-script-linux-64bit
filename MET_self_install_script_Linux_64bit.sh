@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export HOME=`cd;pwd`
 
 #Basic Package Management for Model Evaluation Tools (MET)
 
