@@ -30,8 +30,8 @@ mkdir Libs/MPICH
 cd Downloads
 wget -c https://github.com/madler/zlib/archive/refs/tags/v1.2.11.tar.gz
 wget -c https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.gz
-wget -c https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-c-4.7.4.tar.gz
-wget -c https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-fortran-4.5.3.tar.gz
+wget -c https://github.com/Unidata/netcdf-c/archive/refs/tags/v4.7.4.tar.gz
+wget -c https://github.com/Unidata/netcdf-fortran/archive/refs/tags/v4.5.3.tar.gz
 wget -c http://www.mpich.org/static/downloads/3.4.1/mpich-3.4.1.tar.gz
 wget -c https://download.sourceforge.net/libpng/libpng-1.6.37.tar.gz
 wget -c https://www.ece.uvic.ca/~frodo/jasper/software/jasper-1.900.1.zip
