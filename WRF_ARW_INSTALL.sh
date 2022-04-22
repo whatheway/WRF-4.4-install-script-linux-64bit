@@ -28,7 +28,7 @@ mkdir Libs/MPICH
 
 ##############################Downloading Libraries############################
 cd Downloads
-wget -c https://www.zlib.net/zlib-1.2.11.tar.gz
+wget -c https://github.com/madler/zlib/archive/refs/tags/v1.2.11.tar.gz
 wget -c https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.gz
 wget -c https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-c-4.7.4.tar.gz
 wget -c https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-fortran-4.5.3.tar.gz
@@ -50,11 +50,12 @@ export F77=gfortran
 
 #############################zlib############################
 cd $HOME/WRF/Downloads
-tar -xvzf zlib-1.2.11.tar.gz
+tar -xvzf v1.2.11.tar.gz
 cd zlib-1.2.11/
 ./configure --prefix=$DIR/grib2
 make
 make install
+
 
 
 #############################libpng############################
