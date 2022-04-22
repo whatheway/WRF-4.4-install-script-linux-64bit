@@ -8,7 +8,7 @@ This is a script that installs all the libararies, software, programs, and geost
 
 > chmod +x WRF_ARW_INSTALL.sh
 > 
-> chmod +x MET_self_install_script_Linux_84bit.sh
+> chmod +x MET_self_install_script_Linux_64bit.sh
 > 
 > chmod +x METplus_self_install_script_Linux_32bit.sh
 
