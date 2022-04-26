@@ -30,5 +30,5 @@ Tested with current available libraries on 04/21/2021, execptions have been note
 
 If newer libraries exist edit script paths for changes
 
-# Estimated Run Time ~ 80 - 120 Minutes
+# Estimated Run Time ~ 80 - 150 Minutes
 ### Special thanks to  Youtube's meteoadriatic and GitHub user jamal919
