@@ -35,5 +35,14 @@ If newer libraries exist edit script paths for changes
 
 Hatheway, W. (2022). WRF 4.3.3 Install Script Linux 64bit (Version 4.3.3) [Computer software]
 
-https://translate.google.com
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
 
