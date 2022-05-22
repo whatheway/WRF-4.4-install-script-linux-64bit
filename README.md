@@ -35,23 +35,8 @@ If newer libraries exist edit script paths for changes
 
 Hatheway, W. (2022). WRF 4.3.3 Install Script Linux 64bit (Version 4.3.3) [Computer software]
 
-
-<!DOCTYPE html>
-<html lang="en-US">
-<body>
-
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<p>This example displays a vertical translate button.</p>
-
-</body>
-</html>
+<iframe
+  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
+  style="width:100%; height:300px;"
+></iframe>
 
