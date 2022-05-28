@@ -30,7 +30,7 @@ wget https://github.com/dtcenter/MET/releases/download/v10.1.2/met-10.1.2.202205
 cp compile_MET_all.sh $HOME/WRF/MET-10.1.2
 tar -xvzf tar_files.tgz -C $HOME/WRF/MET-10.1.2
 cp met-10.1.2.20220516.tar.gz $HOME/WRF/MET-10.1.2/tar_files
-cd $HOME/WRF/MET-10.1.1
+cd $HOME/WRF/MET-10.1.2
 
 
 
