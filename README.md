@@ -28,7 +28,7 @@ I have provided comments on what the script is doing and information on configur
 # WRF installation with parallel process (dmpar).
 Must be installed with GNU compiler, it will not work with other compilers.
 
--  ### Tested in Ubuntu 20.04.4 LTS.
+-  ### *** Tested on Ubuntu 20.04.4 LTS. ***
 - Built in 64-bit system.
 - Tested with current available libraries on 05/10/2022, execptions have been noted in the script documentation. 
 - If newer libraries exist edit script paths for changes in future.
