@@ -15,9 +15,9 @@ Script assumes a clean directory with no other WRF configure files in the direct
 > 
 > chmod 775 MET_self_install_script_Linux_64bit.sh
 > 
-> chmod 775 METplus_self_install_script_Linux_32bit.sh
+> chmod 775 METplus_self_install_script_Linux_64bit.sh
 >
-> chmod 775 Miniconda3_Install.sh
+> chmod 775 Miniconda3_WRF_Install.sh
 >
 > ./WRF_ARW_INSTALL_64bit.sh
 
